@@ -1,5 +1,9 @@
+<!-- <p align="center">
+  <img src="https://res.cloudinary.com/danimel/image/upload/v1768336252/My-Portafolio/banner-yl_jshhaf.png" />
+</p> -->
+
 <p align="center">
-  <img src="https://res.cloudinary.com/danimel/image/upload/v1768335557/My-Portafolio/banner_fullstack_yudith.png" />
+  <img src="https://res.cloudinary.com/danimel/image/upload/v1768336252/My-Portafolio/banner-yl-animated.gif" />
 </p>
 
 # Hola, soy Yudith Karina León
@@ -19,9 +23,6 @@ Trabajo con metodologías ágiles, pensamiento de producto y atención al detall
 
 
 ### 🛠️ Tecnologías
-
-### 🛠️ Tech Stack
-
 #### 🖥️ Lenguajes
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
@@ -79,8 +80,13 @@ Trabajo con metodologías ágiles, pensamiento de producto y atención al detall
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://res.cloudinary.com/danimel/image/upload/v1737687167/My-Portafolio/Designer_23_fgk7ip.jpg" />
+  <img 
+    src="https://res.cloudinary.com/danimel/image/upload/v1737687167/My-Portafolio/Designer_23_fgk7ip.jpg"
+    width="160"
+    style="border-radius:50%; box-shadow: 0 0 25px rgba(212, 0, 255, 0.6);"
+  />
 </p>
+
 
 ### 🤝 Conectemos
 
