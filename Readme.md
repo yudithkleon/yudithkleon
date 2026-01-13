@@ -73,12 +73,10 @@ Trabajo con metodologías ágiles, pensamiento de producto y atención al detall
 ![BPMN](https://img.shields.io/badge/BPMN-FF6F00?style=for-the-badge)
 
 
-### 📈 GitHub Stats
-
 <p align="center">
   <img 
     src="https://res.cloudinary.com/danimel/image/upload/v1737687167/My-Portafolio/Designer_23_fgk7ip.jpg"
-    width="160"
+    width="360"
     style="border-radius:50%; box-shadow: 0 0 25px rgba(212, 0, 255, 0.6);"
   />
 </p>
