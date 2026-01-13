@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Yudith%20Karina%20León&fontSize=40&fontAlignY=35&desc=Fullstack%20Web%20Developer%20|%20Frontend%20Focused&descAlignY=55" />
+  <img src="https://res.cloudinary.com/danimel/image/upload/v1768335557/My-Portafolio/banner_fullstack_yudith.png" />
 </p>
 ## 👋 Hola, soy Yudith Karina León
-<img align="right" src="URL_DE_TU_FOTO" width="180"/>
+<img align="right" src="https://res.cloudinary.com/danimel/image/upload/v1737695755/My-Portafolio/Yudith_ayqsnj.jpg" width="180"/>
 
 
 🚀 **Fullstack Web Developer** con fuerte enfoque en **Frontend moderno y QA**  
@@ -40,16 +40,9 @@ Trabajo con metodologías ágiles, pensamiento de producto y atención al detall
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yudithkleon&show_icons=true&theme=radical" />
+  <img src="https://res.cloudinary.com/danimel/image/upload/v1737687167/My-Portafolio/Designer_23_fgk7ip.jpg" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yudithkleon&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
-</p>
 
 ### 🤝 Conectemos
 
