@@ -1,9 +1,5 @@
-<!-- <p align="center">
-  <img src="https://res.cloudinary.com/danimel/image/upload/v1768336252/My-Portafolio/banner-yl_jshhaf.png" />
-</p> -->
-
 <p align="center">
-  <img src="https://res.cloudinary.com/danimel/image/upload/v1768336252/My-Portafolio/banner-yl-animated.gif" />
+  <img src="https://res.cloudinary.com/danimel/image/upload/v1768336252/My-Portafolio/banner-yl_jshhaf.png" />
 </p>
 
 # Hola, soy Yudith Karina León
