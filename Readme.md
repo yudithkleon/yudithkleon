@@ -72,6 +72,13 @@ Trabajo con metodologías ágiles, pensamiento de producto y atención al detall
 ![UML](https://img.shields.io/badge/UML-02569B?style=for-the-badge)
 ![BPMN](https://img.shields.io/badge/BPMN-FF6F00?style=for-the-badge)
 
+### 🤝 Conectemos
+
+📧 Email: yudithkleon@gmail.com  
+💼 LinkedIn: [linkedin.com/in/yudithkleon](#)  
+🌐 Portafolio: [https://porta-yudith.vercel.app/]  
+
+### Siempre abierta a nuevos retos, colaboración y crecimiento profesional.
 
 <p align="center">
   <img 
@@ -80,12 +87,3 @@ Trabajo con metodologías ágiles, pensamiento de producto y atención al detall
     style="border-radius:50%; box-shadow: 0 0 25px rgba(212, 0, 255, 0.6);"
   />
 </p>
-
-
-### 🤝 Conectemos
-
-📧 Email: yudithkleon@gmail.com  
-💼 LinkedIn: [linkedin.com/in/yudithkleon](#)  
-🌐 Portafolio: [https://porta-yudith.vercel.app/]  
-
-Siempre abierta a nuevos retos, colaboración y crecimiento profesional.
